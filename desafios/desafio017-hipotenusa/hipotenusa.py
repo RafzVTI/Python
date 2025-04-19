@@ -1,0 +1,6 @@
+print('='*20)
+print('EMPRÉSTIMO')
+print('='*20)
+casav = float(input('Qual o valor da casa em R$: '))
+tempo = float(input('Quantos anos de financiamento? '))
+salario = float(input('Qual o seu sálario '))
